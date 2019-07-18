@@ -1,5 +1,5 @@
 # OpenCity
-A JavaScript implementation of classic NES game Battle City by NAMCO. Powered by [WesaJS](https://github.com/mriiiron/wesa).
+A JavaScript implementation of classic NES game *Battle City* by *NAMCO*. Powered by [WesaJS](https://github.com/mriiiron/wesa).
 
 Haven't done browser testing yet. Use latest Chrome for best experience. 
 
