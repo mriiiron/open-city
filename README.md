@@ -3,7 +3,7 @@ A JavaScript implementation of classic NES game *Battle City* by *NAMCO*. Powere
 
 Haven't done browser testing yet. Use latest Chrome for best experience. 
 
-### [>> Play! <<](http://caiyi.us/open-city)
+### [>> Play! <<](http://caiyi.tech/open-city)
 
 ### To-do
 
